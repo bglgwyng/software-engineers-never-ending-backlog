@@ -13,3 +13,8 @@ This repository is simply a collection of my personal TODOs, despite its name—
 ## Documentations
 
 - [ ] Help keep translated documents in a repository up to date, whether through a tool, workflow, or another solution.
+
+## Web
+
+- [ ] Allow cross-tab shared memory (e.g., `SharedArrayBuffer`) in browsers to enable OS-like multi-window GUI workflows
+  - [ ] https://github.com/whatwg/html/issues/5362
